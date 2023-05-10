@@ -1,0 +1,16 @@
+{
+  "name": "react-with-typescript",
+  "version": "1.0.0",
+  "description": "Project with TS and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simone Taeggi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.1.2",
+    "typescript": "^5.0.4"
+  }
+}
